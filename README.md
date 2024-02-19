@@ -3,6 +3,7 @@ Coding club - Petit Bain
 </h1>
 
 </br>
+
 ## Prérequis 🔑
 
 Si vous êtes sur un ordinateur du Coding-Club, exécutez cette commande pour charger le sujet `sudo rebuild petit-bain`. Vous pouvez sauter cette section, ces prérequis sont remplis automatiquement.
