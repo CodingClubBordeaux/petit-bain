@@ -181,7 +181,6 @@ my_getnbr_base("-42");
 | -84 | Pointeur invalide / Chaîne de caractère invalide |
 | 0 | Chaîne de zéro charactère donné |
 | >= 1 | Valeur de la chaîne de caractère |
-|  |  |
 
 Prototype de la fonction:
 
