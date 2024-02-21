@@ -78,7 +78,7 @@ my_ispos(42);
 Prototype de la fonction:
 
 ```c
-int my_ispos(int n);
+void my_ispos(int n);
 ```
 
 > [!TIP]
